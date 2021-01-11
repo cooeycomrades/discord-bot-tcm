@@ -1,6 +1,6 @@
 # Cooey Bot
 
-**Office Discord Bot of the Cooey Discord**
+**Offical Discord Bot of the Cooey Discord**
 
 This section contains the cogs/modules that power the offical cooey bot!
 
