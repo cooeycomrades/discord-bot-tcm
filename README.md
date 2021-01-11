@@ -1,6 +1,6 @@
 # discord-bot-tcm
 Discord server bot, home of "The Cooey Monster". 
-
+```
 
                .---. .---.
                :     : o   :    me want cooey
@@ -18,3 +18,4 @@ Discord server bot, home of "The Cooey Monster".
    ;         '       "       '     . ; .' ; ; ;
   ;     '         '       '   "    .'      .-'
   '  "     "   '      "           "    _.-'
+  ```
