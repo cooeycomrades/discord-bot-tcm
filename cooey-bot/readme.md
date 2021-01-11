@@ -2,11 +2,11 @@
 
 **Office Discord Bot of the Cooey Discord**
 
-This section contains the cogs/modules that power the office cooey bot!
+This section contains the cogs/modules that power the offical cooey bot!
 
-Customcom: Will be used for all of the CMMC/NIST Controls once a list is developed for ease of import
+customcom: Will be used for all of the CMMC/NIST Controls once a list is developed for ease of import
 
-Embedcreator: Used to make the embed seen in #introductions to get the gcchigh role
+embedcreator: Used to make the embed seen in #introductions to get the gcchigh role
 
 redditpost: Generates the reddit feeds for both r/NISTControls and r/CMMC
 
